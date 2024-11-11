@@ -1,7 +1,9 @@
-**Text Summarizer Model**
+**Text Summarizer Model** 
+
 A deep learning-based text summarization model that generates concise summaries from longer pieces of text. This project uses a customized sequence-to-sequence language model and various sampling techniques to create high-quality summaries, scoring optimally on ROUGE metrics.
 
 **Table of Contents**
+
 Features
 Installation
 Usage
@@ -17,6 +19,7 @@ Sampling Techniques: Includes Top-K and Temperature Sampling for diverse output 
 Flexible Customization: Adjustable parameters like summary length, temperature, and top-K values.
 Scoring: Evaluates results with ROUGE metrics (ROUGE-1, ROUGE-2, and ROUGE-L) to assess summary quality.
 **Demo**
+
 Input text:
 The quick brown fox jumps over the lazy dog. This is a simple sentence that demonstrates the use of all the letters in the English alphabet. It is often used in typing exercises and font displays to showcase the style and clarity of a font. Many other fonts are used around the world for different purposes...
 Generated Summary:
