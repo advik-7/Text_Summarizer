@@ -17,7 +17,8 @@ Features
 Efficient Text Summarization: Uses transformer-based architecture for text summarization.
 Sampling Techniques: Includes Top-K and Temperature Sampling for diverse output generation.
 Flexible Customization: Adjustable parameters like summary length, temperature, and top-K values.
-Scoring: Evaluates results with ROUGE metrics (ROUGE-1, ROUGE-2, and ROUGE-L) to assess summary quality.
+Scoring: Evaluates results with ROUGE metrics (ROUGE-1, ROUGE-2, and ROUGE-L) to assess summary quality. 
+
 **Demo**
 
 Input text:
