@@ -22,11 +22,12 @@ Scoring: Evaluates results with ROUGE metrics (ROUGE-1, ROUGE-2, and ROUGE-L) to
 **Demo**
 
 Input text:
+
 The quick brown fox jumps over the lazy dog. This is a simple sentence that demonstrates the use of all the letters in the English alphabet. It is often used in typing exercises and font displays to showcase the style and clarity of a font. Many other fonts are used around the world for different purposes...
 Generated Summary:
 
-text
-Output
+Output:
+
 The quick brown fox is a sentence that demonstrates the use of all the letters in the alphabet, commonly used in typing exercises and font displays.
 
 
