@@ -2,6 +2,8 @@
 
 A deep learning-based text summarization model that generates concise summaries from longer pieces of text. This project uses a customized sequence-to-sequence language model and various sampling techniques to create high-quality summaries, scoring optimally on ROUGE metrics.
 
+model="https://huggingface.co/Advik-7/text_summarizer"
+
 **Table of Contents**
 
 Features
